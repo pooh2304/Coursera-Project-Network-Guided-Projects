@@ -18,6 +18,7 @@
 | [PowerBI Report Development Crash Course](https://www.coursera.org/projects/powerbi-report-development-crash-course-wdnos) | [View Certificate]() |
 | [Build Dashboards in Power BI](https://www.coursera.org/projects/build-dashboards-power-bi) | [View Certificate]() |
 | [Get, Shape, Combine and Merge the datasets using Power BI](https://www.coursera.org/projects/get-shape-combine-and-merge-the-datasets-using-power-bi) | [View Certificate]() |
+| [Using DAX throughout PowerBI to create robust data scenarios](https://www.coursera.org/projects/using-dax-throughout-powerbi-to-create-robust-data-scenarios) | [View Certificate]() |
 
 ### Tableau
 
@@ -38,6 +39,7 @@
 | [Create Interactive Graphs in Tableau](https://www.coursera.org/projects/create-interactive-graphs-tableau) | [View Certificate]() |
 | [Create Social Media Dashboards in Tableau](https://www.coursera.org/projects/create-social-media-dashboards-tableau-ayild) | [View Certificate]() |
 | [How to Create a Gantt Chart in Tableau](https://www.coursera.org/projects/how-create-gantt-chart-tableau) | [View Certificate]() |
+| [Visualizing Citibike Trips with Tableau](https://www.coursera.org/projects/visualizing-citibike-trips-tableau) | [View Certificate]() |
 
 ### Zapier
 
