@@ -18,3 +18,22 @@
 | [PowerBI Report Development Crash Course](https://www.coursera.org/projects/powerbi-report-development-crash-course-wdnos) | [View Certificate]() |
 | [Build Dashboards in Power BI](https://www.coursera.org/projects/build-dashboards-power-bi) | [View Certificate]() |
 
+### Tableau
+
+| Project Name | Certificate |
+|--------------|-------------|
+| [Get Started With Tableau](https://www.coursera.org/projects/get-started-tableau) | [View Certificate]() |
+| [How to Visualize Research Data in Tableau](https://www.coursera.org/projects/how-visualize-research-data-tableau) | [View Certificate]() |
+| [Analyze Survey Data with Tableau](https://www.coursera.org/projects/analyze-survey-data-tableau) | [View Certificate]() |
+| [Build Critical Path Visualizations in Tableau and Excel](https://www.coursera.org/projects/build-critical-path-visualizations-tableau-and-excel) | [View Certificate]() |
+| [Create Geovisualizations in Tableau](https://www.coursera.org/projects/create-geovisualizations-tableau) | [View Certificate]() |
+| [Visualize Financial Data In Tableau](https://www.coursera.org/projects/visualize-financial-data-tableau) | [View Certificate]() |
+| [Create a Big Number KPI Dashboard in Tableau Public](https://www.coursera.org/projects/create-big-number-kpi-dashboard-tableau-public) | [View Certificate]() |
+| [Master the Art of Data Visualization With Tableau Public](https://www.coursera.org/projects/master-data-visualization-tableau) | [View Certificate]() |
+| [How To Create A Sales Forecast In Tableau](https://www.coursera.org/projects/how-to-create-a-sales-forecast-in-tableau) | [View Certificate]() |
+| [How To Create An Interactive Resume On Tableau](https://www.coursera.org/projects/how-create-interactive-resume-tableau) | [View Certificate]() |
+| [Analyze Digital Marketing Spend in Tableau](https://www.coursera.org/projects/analyze-digital-marketing-spend-tableau) | [View Certificate]() |
+| [Create Digital Marketing Campaign Dashboards in Tableau](https://www.coursera.org/projects/create-digital-marketing-campaign-dashboards-tableau) | [View Certificate]() |
+| [Create Interactive Graphs in Tableau](https://www.coursera.org/projects/create-interactive-graphs-tableau) | [View Certificate]() |
+| [Create Social Media Dashboards in Tableau](https://www.coursera.org/projects/create-social-media-dashboards-tableau-ayild) | [View Certificate]() |
+| [How to Create a Gantt Chart in Tableau](https://www.coursera.org/projects/how-create-gantt-chart-tableau) | [View Certificate]() |
