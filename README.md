@@ -41,12 +41,3 @@
 | [How to Create a Gantt Chart in Tableau](https://www.coursera.org/projects/how-create-gantt-chart-tableau) | [View Certificate]() |
 | [Visualizing Citibike Trips with Tableau](https://www.coursera.org/projects/visualizing-citibike-trips-tableau) | [View Certificate]() |
 
-### Zapier
-
-| Project Name | Certificate |
-|--------------|-------------|
-| [Approve Social Media Posts with Zapier and Trello](https://www.coursera.org/projects/approve-social-media-zapier-trello) | [View Certificate]() |
-| [Automate Blog Advertisements with Zapier](https://www.coursera.org/projects/automate-blog-advertisements-zapier) | [View Certificate]() |
-| [Automating Sales Tasks with Zapier](https://www.coursera.org/projects/automating-sales-tasks-zapier) | [View Certificate]() |
-| [Advertise YouTube Videos with Zapier](https://www.coursera.org/projects/advertise-youtube-videos-zapier) | [View Certificate]() |
-| [Marketing with Zapier & ChatGPT: Automated Content Calendars](https://www.coursera.org/projects/marketing-with-zapier--chatgpt-automated-content-calendars) | [View Certificate]() |
